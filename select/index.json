@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ほどほどにぎゅっとして",
   "base_artist": "映秀。",
-  "createdAt": "2026-03-28T05:11:21.222570Z",
+  "createdAt": "2026-03-28T05:26:26.738101Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "映秀。",
       "has_synced": false,
       "path": "select/pl_01_ほどほどにぎゅっとして_映秀。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ほどほどにぎゅっとして",
+      "artist": "映秀。",
+      "has_synced": false,
+      "path": "select/localdb_01_ほどほどにぎゅっとして_映秀。.txt",
+      "repo_name": "iEvDBEbgzCs"
     }
   ]
 }
